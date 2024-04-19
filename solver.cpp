@@ -1,7 +1,7 @@
 #include "file_operations.h"
 #include <iostream>
 
-int main(int argc, char* argv[]) {
+int main() {
     
     std::vector<Serv*> servs;
     std::vector<std::vector<int>> m_time, m_cost;
