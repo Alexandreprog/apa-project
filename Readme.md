@@ -1,0 +1,1 @@
+Só salvando algumas coisas aqui, estão faltando coisas pois a disciplina está em andamento. (Só pra ningúem copiar)
