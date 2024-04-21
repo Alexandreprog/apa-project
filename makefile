@@ -4,7 +4,7 @@ CC = g++
 
 all: solver
 	./solver
-	rm -f *.o
+	del /Q *.o
 
 solver: solver.o instance_reader.o
 	$(CC) -o solver solver.o instance_reader.o
